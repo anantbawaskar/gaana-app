@@ -1,8 +1,6 @@
-# Saavn Mac
+# Gaana Mac
 
 Based on Electron, built for Mac OS.
-
-Download, and other info - [scriptspry.com/2016/07/30/saavn-mac-app.html](http://scriptspry.com/2016/07/30/saavn-mac-app.html).
 
 ## Development
 
@@ -18,14 +16,6 @@ npm run pack
 Copies compiled binary to `/Applications`
 ```
 npm run install
-```
-
-#### Push to S3
-Copies compressed binary to s3. Requires 7zip. Run `brew install p7zip` for the command line version.
-
-```
-npm run compress
-npm run publish
 ```
 
 # License
