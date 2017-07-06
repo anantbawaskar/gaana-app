@@ -1,5 +1,5 @@
 # Gaana Mac
-
+# Tweaked from https://github.com/scriptspry/Saavn-Mac
 Based on Electron, built for Mac OS.
 
 ## Development
